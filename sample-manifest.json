@@ -1,0 +1,12 @@
+{
+  "export_job_id": "20ccb6e8-4bae-4a75-b494-71e8b1666376",
+  "id_short": 283700,
+  "published_at": "2026-04-11T19:15:27Z",
+  "repo_name": "top-300-active-restaurant-whales-with-email-in-san-diego-california-us-sample-283700",
+  "sample_asset_name": "beamstation_283700_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/283700/beamstation_283700_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "8ee458e54f161ba06a78b642ac2248d282b1db75dd8cca3fae40280b9b7b0270",
+  "sample_size_bytes": 126950,
+  "total_records": 253
+}
