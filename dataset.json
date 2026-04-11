@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nMost popular restaurants in the top range of their local market for proven foot traffic and review volume. \n\nThese are the highest-velocity, actively transacting accounts.\n\n100% of these restaurants have at least one email address. All emails were cleaned and verified in the last 10 days.\n\nBusiness activity validated by an \"Active Heartbeat\" signal in the last 30 days.",
+  "config_name": "Top 300 Active Restaurant Whales with Email in San Diego, California, US",
+  "export_job_id": "20ccb6e8-4bae-4a75-b494-71e8b1666376",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 283700,
+  "location_name": "San Diego",
+  "location_type": "city",
+  "repo_name": "top-300-active-restaurant-whales-with-email-in-san-diego-california-us-sample-283700",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/283700/beamstation_283700_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.88,
+  "sample_records": 25,
+  "sample_sha256": "8ee458e54f161ba06a78b642ac2248d282b1db75dd8cca3fae40280b9b7b0270",
+  "sample_size_bytes": 126950,
+  "total_records": 253,
+  "updated_at": "2026-04-07T17:10:45.411648+00:00"
+}
