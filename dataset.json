@@ -6,7 +6,7 @@
   "config_category": "sales",
   "config_description": "--High-Volume, Active targets--\n\nMost popular restaurants in the top range of their local market for proven foot traffic and review volume. \n\nThese are the highest-velocity, actively transacting accounts.\n\n100% of these restaurants have at least one email address. All emails were cleaned and verified in the last 10 days.\n\nBusiness activity validated by an \"Active Heartbeat\" signal in the last 30 days.",
   "config_name": "Top 300 Active Restaurant Whales with Email in San Diego, California, US",
-  "export_job_id": "027c575c-dfc3-47cb-a4da-0084ecdd70be",
+  "export_job_id": "cc5da3bf-d012-476d-ade2-1701da0e13d8",
   "github_org": "Beamstation-Datasets",
   "id_short": 283700,
   "location_name": "San Diego",
@@ -14,9 +14,9 @@
   "repo_name": "top-300-active-restaurant-whales-with-email-in-san-diego-california-us-sample-283700",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/283700/beamstation_283700_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
-  "sample_records": 16,
-  "sample_sha256": "8f710fb840988d18c0f0f00dc489f03d258a56858c8ae42ed1d568ffa5fa72bd",
-  "sample_size_bytes": 81854,
-  "total_records": 160,
-  "updated_at": "2026-04-14T22:53:27.755870+00:00"
+  "sample_records": 11,
+  "sample_sha256": "97645a052c7eee6ddb7cc04e5bf2bc7a31a68575fa99ccf71c4b6542b6011184",
+  "sample_size_bytes": 61387,
+  "total_records": 110,
+  "updated_at": "2026-04-22T02:04:50.479823+00:00"
 }
